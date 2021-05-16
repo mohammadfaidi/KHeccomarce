@@ -1,5 +1,9 @@
 # dsclogin
 
+^(\s)*$\n
+
+
+https://www.trainingdragon.co.uk/blog/how-to-remove-empty-lines-in-visual-studio-code
 A new Flutter project.
 
 ## Getting Started

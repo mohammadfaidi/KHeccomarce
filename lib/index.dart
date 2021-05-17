@@ -36,6 +36,7 @@ Padding(
 SizedBox(height:15),
 CarouselSlider(items: [
 Container(
+  width: MediaQuery.of(context).size.width,
   margin: EdgeInsets.symmetric(horizontal:5),
   decoration: BoxDecoration(
     color: Colors.blue,
